@@ -1,0 +1,57 @@
+- a propriedade <html lang="pt-br"> é para colocar o idioma do site
+
+- a propriedade head é mais a configuração do site, tipo, o titulo que aparece la na aba do site
+
+- o body é o corpo do html, basicamente tudo que nos vamos ver
+como por exemplo os h1,h2,h3,h4,h5 e h6 vamos colocar lá, a mesma coisa para
+paragrafos, input, button e etc...
+
+-o h1 é o titulo e sua relevancia, sendo o h1 o mais 
+importante e o h6 o menos importante, 
+
+- o <br> serve pra pular pra linha de baixo
+
+-input é um campo para colocar uma informação, podendo ser
+texto,numero,data,email,senhas,arquivos e etc
+
+-o button é literalmente um botão
+
+- o <script> do html é pra colocar codigo do JS dentro do html.
+se quiser que o html le o seu arquivo JS ai ele precisa ter src, Ex:
+<script src="Caminho da pasta"></script>
+
+-o Id é um identificador unico para um elemento
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
